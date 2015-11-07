@@ -1,0 +1,23 @@
+name: JeffreyDanielsPhotography
+favicon: null
+layout_spectrum: 0.7573263372760266
+typography_spectrum: 0.8287640332709998
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.31489599170163274
+  lightness: 0.6507275230251253
+  saturation: 0.26427613967098296
+  rhythmicContrast: 0.9058723980560899
+purpose: []
